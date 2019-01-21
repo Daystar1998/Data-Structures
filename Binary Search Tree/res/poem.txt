@@ -1,0 +1,4 @@
+Roses are red,
+Violets are blue,
+Data Structures is the best,
+You and I both know it is true.
